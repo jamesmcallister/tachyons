@@ -44,7 +44,7 @@ using [uncss](https://github.com/giakki/uncss) to remove styles you aren't refer
 Set up the project by cloning the repo, navigating into it, and installing the necessary dependencies by running the following commands:
 
 ```
- git clone git@github.com:mrmrs/tachyons.git yourProject
+ git clone git@github.com:youbiteme/tachyons.git yourProject
  cd yourProject
  rm -rf .git
  git init
